@@ -652,16 +652,16 @@ packages:
     dev: true
     resolution:
       integrity: sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
-  github.com/ocavue/install-artifact-from-github/02428a0eb43eacf1328ccfffdb63641da31f106e:
+  github.com/ocavue/install-artifact-from-github/72cf31c47a14318c77d388c764a6cbae35d83c3e:
     dev: true
     hasBin: true
     name: install-artifact-from-github
     resolution:
-      tarball: 'https://codeload.github.com/ocavue/install-artifact-from-github/tar.gz/02428a0eb43eacf1328ccfffdb63641da31f106e'
+      tarball: 'https://codeload.github.com/ocavue/install-artifact-from-github/tar.gz/72cf31c47a14318c77d388c764a6cbae35d83c3e'
     version: 1.2.0
   github.com/ocavue/node-re2/ae4ea3e9c933d4f99d00dc89dd957a76194b210a:
     dependencies:
-      install-artifact-from-github: github.com/ocavue/install-artifact-from-github/02428a0eb43eacf1328ccfffdb63641da31f106e
+      install-artifact-from-github: github.com/ocavue/install-artifact-from-github/72cf31c47a14318c77d388c764a6cbae35d83c3e
       nan: 2.14.2
       node-gyp: 7.1.2
     dev: true
