@@ -16,21 +16,21 @@ node --version
 #
 cd $ROOT/npm-example
 npm --version
-npm i
+time npm i
 
 #
 cd $ROOT/yarn-example
 yarn --version
-yarn install --verbose
+time yarn install --verbose
 
 
 #
 cd $ROOT/yarnv2-example
 yarn --version
-yarn install --inline-builds
+time yarn install --inline-builds
 
 #
 cd $ROOT/pnpm-example
 npm install -g pnpm
 pnpm --version
-pnpm i --loglevel debug --reporter append-only
+time pnpm i --loglevel debug --reporter append-only
