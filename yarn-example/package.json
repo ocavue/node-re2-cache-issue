@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "re2": "^1.15.9"
+    "re2": "ocavue/node-re2#debug"
   }
 }
