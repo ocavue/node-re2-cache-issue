@@ -4,3 +4,5 @@ node_modules/
 **/.git/
 cache/
 **/cache/
+.pnpm-store/
+**/.pnpm-store/
