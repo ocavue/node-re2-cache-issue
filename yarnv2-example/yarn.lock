@@ -378,11 +378,11 @@ __metadata:
 
 "install-artifact-from-github@ocavue/install-artifact-from-github#debug":
   version: 1.2.0
-  resolution: "install-artifact-from-github@https://github.com/ocavue/install-artifact-from-github.git#commit=107a977a86eca0943394fb9a06947709996e37f9"
+  resolution: "install-artifact-from-github@https://github.com/ocavue/install-artifact-from-github.git#commit=16445e7f180554713426eff44ff5d548d8dc90cb"
   bin:
     install-from-cache: bin/install-from-cache.js
     save-to-github-cache: bin/save-to-github-cache.js
-  checksum: 4c880e5169b023a0b8b9242be865225aec6c7ff845dbb9f4db5f95c0b40b041b3af35b882c0f69d71296dcfb1c6fa3dce394856951b07b2bf8eb1db1400871f2
+  checksum: 8ece46c22c9112dc0403e86e7a61178beacf2d00813f52bd7b87a7219227de0513e77c10093a16ee3e836837a80511babf07a6c3f40f13f9461698381cd65f1c
   languageName: node
   linkType: hard
 

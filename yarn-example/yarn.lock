@@ -285,7 +285,7 @@ inherits@2, inherits@~2.0.3:
 
 install-artifact-from-github@ocavue/install-artifact-from-github#debug:
   version "1.2.0"
-  resolved "https://codeload.github.com/ocavue/install-artifact-from-github/tar.gz/107a977a86eca0943394fb9a06947709996e37f9"
+  resolved "https://codeload.github.com/ocavue/install-artifact-from-github/tar.gz/16445e7f180554713426eff44ff5d548d8dc90cb"
 
 is-fullwidth-code-point@^1.0.0:
   version "1.0.0"
