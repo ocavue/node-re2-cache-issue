@@ -1,0 +1,18 @@
+{
+    "npm_config_user_agent": "yarn/2.4.0 npm/? node/14.15.3 linux x64",
+    "NODE_VERSION": "14.15.3",
+    "HOSTNAME": "423117200cfb",
+    "YARN_VERSION": "1.22.5",
+    "npm_node_execpath": "/tmp/xfs-30a3f23b/node",
+    "SHLVL": "1",
+    "HOME": "/root",
+    "OLDPWD": "/data/node-re2-cache-issue/yarn-example",
+    "_": "/usr/local/bin/yarn",
+    "TERM": "xterm",
+    "PATH": "/tmp/xfs-30a3f23b:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "npm_lifecycle_event": "install",
+    "PWD": "/data/node-re2-cache-issue/yarnv2-example/node_modules/re2",
+    "BERRY_BIN_FOLDER": "/tmp/xfs-30a3f23b",
+    "npm_execpath": "/tmp/xfs-30a3f23b/yarn",
+    "INIT_CWD": "/data/node-re2-cache-issue/yarnv2-example"
+}
