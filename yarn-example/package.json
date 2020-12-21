@@ -1,0 +1,9 @@
+{
+  "name": "yarn-eample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "re2": "^1.15.9"
+  }
+}
