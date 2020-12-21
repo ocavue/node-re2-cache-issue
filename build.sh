@@ -21,7 +21,7 @@ npm i
 #
 cd $ROOT/yarn-example
 yarn --version
-yarn install
+yarn install --verbose
 
 
 #
@@ -33,4 +33,4 @@ yarn install --inline-builds
 cd $ROOT/pnpm-example
 npm install -g pnpm
 pnpm --version
-pnpm i
+pnpm i --loglevel debug --reporter append-only
