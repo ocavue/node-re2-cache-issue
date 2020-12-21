@@ -1,6 +1,6 @@
 {
   "name": "yarnv2-example",
   "devDependencies": {
-    "re2": "ocavue/node-re2#debug"
+    "re2": "ocavue/node-re2#debug2"
   }
 }
